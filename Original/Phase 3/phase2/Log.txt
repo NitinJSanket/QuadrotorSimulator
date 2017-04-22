@@ -1,0 +1,98 @@
+
+
+Log at Time: 2015     1    30    21    46     3
+Mean Pos Error: 0.37885     0.37841  0.00060618
+Mean Vel Error: -0.17354    -0.17406  4.9166e-05
+Kp and Kd (XYZ): 3.25         3.25           40            7            7           30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    21    49    33
+Mean Pos Error: 0.35659     0.35602  0.00073813
+Mean Vel Error: -0.17513     -0.1758  6.2493e-05
+Kp and Kd (XYZ): 3.5          3.5           40            7            7           30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    21    52    38
+Mean Pos Error: 0.33628     0.33553  0.00089046
+Mean Vel Error: -0.17591    -0.17676  7.9022e-05
+Kp and Kd (XYZ): 3.75         3.75           40            7            7           30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    21    54    49
+Mean Pos Error: 0.31771     0.31675   0.0010653
+Mean Vel Error: -0.17593    -0.17698  9.9797e-05
+Kp and Kd (XYZ): 4   4  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    21    57     4
+Mean Pos Error: 0.25809     0.25556   0.0020503
+Mean Vel Error: -0.16909    -0.17089  0.00024994
+Kp and Kd (XYZ): 5   5  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    21    59    16
+Mean Pos Error: 0.21619     0.21061   0.0035826
+Mean Vel Error: -0.15433    -0.15666  0.00058676
+Kp and Kd (XYZ): 6   6  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22     1    52
+Mean Pos Error: 0.21574     0.27568    0.009608
+Mean Vel Error: -0.4308    -0.39927   0.0019156
+Kp and Kd (XYZ): 10  10  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22     4    28
+Mean Pos Error: 0.11575     0.12178   0.0068443
+Mean Vel Error: -0.28015    -0.32812   0.0027311
+Kp and Kd (XYZ): 8   8  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22     7     4
+Mean Pos Error: 0.16458     0.15469   0.0053922
+Mean Vel Error: -0.16438    -0.19093   0.0012056
+Kp and Kd (XYZ): 7   7  40   7   7  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22     9    30
+Mean Pos Error: 0.2475     0.24723   0.0036651
+Mean Vel Error: -0.19031    -0.17543  0.00075094
+Kp and Kd (XYZ): 8   8  40  10  10  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22    12     8
+Mean Pos Error: 0.42903     0.42888     0.00105
+Mean Vel Error: -0.17217    -0.17005  7.8728e-05
+Kp and Kd (XYZ): 8   8  40  20  20  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22    14    27
+Mean Pos Error: 0.28392     0.28612   0.0025289
+Mean Vel Error: -0.2063    -0.20629  0.00032655
+Kp and Kd (XYZ): 8   8  40  12  12  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22    18    46
+Mean Pos Error: 0.32233     0.32209   0.0018995
+Mean Vel Error: -0.18753    -0.19285  0.00023074
+Kp and Kd (XYZ): 8   8  40  14  14  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    30    22    22    11
+Mean Pos Error: 0.30255     0.30353   0.0021717
+Mean Vel Error: -0.1977    -0.20196   0.0002965
+Kp and Kd (XYZ): 8   8  40  13  13  30
+Kp and Kd (Ang): 5  5  0  5  5  0

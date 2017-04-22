@@ -1,0 +1,784 @@
+
+
+Log at Time: 2015     1    30    22    47    51
+Total Pos Error: 2008.3727      2079.6655      15.816856
+Total Vel Error: 1813.1181      1847.3506      7.6899378
+Kp and Kd (XYZ): 8   8  40  13  13  30
+Kp and Kd (Ang): 5  5  0  5  5  0
+
+
+Log at Time: 2015     1    31    13    55    24
+Total Pos Error: 4596.2856      2398.1445      5.9300673
+Total Vel Error: 3209.8037        1579.82      4.0677707
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0        0.01        0.01           0
+
+
+Log at Time: 2015     1    31    14     5    45
+Total Pos Error: 342.7141      374.9421      0.523294
+Total Vel Error: 467.9022      546.1513     0.9626782
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    14     7    26
+Total Pos Error: 342.7141      374.9421      0.523294
+Total Vel Error: 467.9022      546.1513     0.9626782
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    14     8    23
+Total Pos Error: 393.0079      443.7866     0.7225775
+Total Vel Error: 597.6031      680.0734      1.136754
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    14     9    24
+Total Pos Error: 13.5565      13.0166    0.0549606
+Total Vel Error: 19.9724      20.3286     0.192005
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16     8    46
+Total Pos Error: 20.6581      19.7661      6.40791
+Total Vel Error: 19.9736      20.4691      19.9493
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    10    29
+Total Pos Error: 22.8581      19.8974       5.0868
+Total Vel Error: 20.002      20.6887       21.452
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    10    58
+Total Pos Error: 23.5313      20.2465      5.08086
+Total Vel Error: 19.9403      20.2247      21.4317
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    11    17
+Total Pos Error: 23.1808       19.847      5.10485
+Total Vel Error: 19.9205      20.0621      21.5521
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    12    48
+Total Pos Error: 378.1954      429.5663      1.406177
+Total Vel Error: 565.3902      646.6541      2.618172
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    13    35
+Total Pos Error: 2.15372      40.7316      4.92888
+Total Vel Error: 5.01114      129.1878      25.93239
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    14    42
+Total Pos Error: 2.57813      41.5054      4.91776
+Total Vel Error: 5.425045      130.3514      25.90471
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    15    12
+Total Pos Error: 2.54988      43.2829      4.92619
+Total Vel Error: 5.187046      128.0338      25.92266
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    16     1
+Total Pos Error: 2.5545      40.5771      4.90412
+Total Vel Error: 5.041194       123.096      26.02243
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    16    20
+Total Pos Error: 2.966      72.0989      4.69838
+Total Vel Error: 8.701574      163.2554      24.54603
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    16    35
+Total Pos Error: 2.71152      36.3544      4.90867
+Total Vel Error: 4.694043      112.5758      26.05049
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    17    41
+Total Pos Error: 410.4315      471.5564      1.909971
+Total Vel Error: 590.4259       664.673      3.703626
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    19     4
+Total Pos Error: 397.614      437.1924      1.929489
+Total Vel Error: 550.5259      585.8362      4.054025
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    19    51
+Total Pos Error: 411.038      471.7068      2.710319
+Total Vel Error: 606.1304      665.8473      5.715102
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    22    37
+Total Pos Error: 359.3976      321.8548      0.779474
+Total Vel Error: 449.4693      414.5986      1.786215
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    41     8
+Total Pos Error: 395.923       443.673      2.382747
+Total Vel Error: 528.8417      589.4175      9.913263
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    49    51
+Total Pos Error: 16.0823      21.9456      1.18584
+Total Vel Error: 16.5411      45.9846       5.7579
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    16    57    11
+Total Pos Error: 9.2074      17.8627      1.21474
+Total Vel Error: 10.5754      42.3021      6.17401
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     0    50
+Total Pos Error: 17.6058      29.8675      1.87586
+Total Vel Error: 40.18653      107.8167      5.812695
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     1    31
+Total Pos Error: 17.7751       29.768      1.83893
+Total Vel Error: 39.77169      105.8096      5.659497
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     3    49
+Total Pos Error: 17.7751       29.768      1.83893
+Total Vel Error: 39.77169      105.8096      5.659497
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     4    42
+Total Pos Error: 18.0169      29.6794      1.80306
+Total Vel Error: 39.41018      103.9308      5.511344
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     5    16
+Total Pos Error: 19.5324      30.0489      1.93808
+Total Vel Error: 37.9434      97.1617      5.19636
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     5    47
+Total Pos Error: 20.0234      30.4089      2.14872
+Total Vel Error: 37.6804      95.9867      5.30242
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     7    11
+Total Pos Error: 21.1277      31.5476      2.57046
+Total Vel Error: 37.156      93.7777      5.40855
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     7    38
+Total Pos Error: 20.9707      31.7254      2.70015
+Total Vel Error: 36.7691      97.8751      8.43534
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     8    43
+Total Pos Error: 20.9956      31.8772      3.22108
+Total Vel Error: 37.08      97.8929      8.86898
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     9     9
+Total Pos Error: 21.2231      31.7063      3.00661
+Total Vel Error: 37.1305      92.4376      4.47147
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17     9    38
+Total Pos Error: 21.2808      31.9718      2.89437
+Total Vel Error: 36.9961      90.8551      2.64163
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    10     5
+Total Pos Error: 21.7798      32.5818      2.72053
+Total Vel Error: 37.525      90.8427      1.64079
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    10    31
+Total Pos Error: 21.1045      30.2949      2.77766
+Total Vel Error: 34.6815      85.7049      1.72537
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    11     5
+Total Pos Error: 18.6113      21.6795      3.48641
+Total Vel Error: 25.4259      70.7822       2.4086
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    11    37
+Total Pos Error: 16.2242      18.6048      3.63996
+Total Vel Error: 25.6832      72.9759      2.53429
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    12    34
+Total Pos Error: 205.69484      460.24969      3351.4929
+Total Vel Error: 281.12927      404.66891      2084.9446
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    13    15
+Total Pos Error: 16.2242      18.6048      3.63996
+Total Vel Error: 25.6832      72.9759      2.53429
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    14    24
+Total Pos Error: 37.9621       64.441      5.46485
+Total Vel Error: 114.5367      224.2023      3.100386
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    18    24
+Total Pos Error: 16.5993      19.7343      3.44988
+Total Vel Error: 26.7011      74.2752      2.36948
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    18    55
+Total Pos Error: 16.7401      20.0326      3.42194
+Total Vel Error: 26.9926      74.6461      2.33956
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    19    22
+Total Pos Error: 16.4673      19.4323      3.48166
+Total Vel Error: 26.4117      73.8558       2.4018
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    25     2
+Total Pos Error: 16.4673      19.4323      3.48166
+Total Vel Error: 26.4117      73.8558       2.4018
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    32     7
+Total Pos Error: 16.4673      19.4323      3.48166
+Total Vel Error: 26.4117      73.8558       2.4018
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    33    44
+Total Pos Error: 16.4324      18.8118      3.53851
+Total Vel Error: 26.4382      74.7569      2.44408
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    34    13
+Total Pos Error: 16.2154       18.274      3.61771
+Total Vel Error: 26.6303      74.1919      2.51715
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    17    55    45
+Total Pos Error: 30.298      43.8759      6.18068
+Total Vel Error: 87.26922      160.5318      4.177386
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    19    51
+Total Pos Error: 30.6325      30.4881      39.3793
+Total Vel Error: 19.9674      19.9712      19.7358
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    20    29
+Total Pos Error: 75.2359      74.3518      81.4985
+Total Vel Error: 90.3279      90.9503      40.4687
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    21    50
+Total Pos Error: 62.4703      62.0651      79.9599
+Total Vel Error: 39.9765      39.9768      39.7382
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    22    44
+Total Pos Error: 161.9331      159.4348      207.4012
+Total Vel Error: 99.9818       99.982      99.7233
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    31    40
+Total Pos Error: 3.62762      73.0081      14.4255
+Total Vel Error: 7.496858      140.6794      20.02158
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    37    16
+Total Pos Error: 11.9922      31.2466      3.48884
+Total Vel Error: 16.78969      103.7601      2.397988
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    44    53
+Total Pos Error: 9.89391      26.6962      3.47627
+Total Vel Error: 13.7748      81.0928       2.4521
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    18    53     7
+Total Pos Error: 170.9355      168.0385      207.7832
+Total Vel Error: 99.967      99.9664      99.7188
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    19    20    31
+Total Pos Error: 199.0298      196.4906      205.3953
+Total Vel Error: 99.9658      99.9666       99.749
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    19    33    29
+Total Pos Error: 3.45377      91.7398      15.5183
+Total Vel Error: 6.498922      142.8549       20.0225
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20     8    59
+Total Pos Error: 83.602012       1140.419      1504.7912
+Total Vel Error: 51.3718      685.8486       753.093
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20    22     5
+Total Pos Error: 0.906356      13.5286      3.14749
+Total Vel Error: 2.23701      35.5287      3.57083
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20    22    44
+Total Pos Error: 1.18546      16.1942      3.83349
+Total Vel Error: 2.58289      42.4303      3.66515
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20    24     1
+Total Pos Error: 1.21417      15.5602      3.85381
+Total Vel Error: 2.1188      33.3186      3.68773
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20    24    45
+Total Pos Error: 1.16282      15.2402      3.85222
+Total Vel Error: 2.12104      33.5406      3.68797
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    20    25    38
+Total Pos Error: 1.07592      14.6258      3.85147
+Total Vel Error: 2.1304      33.9845      3.68852
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    21     4     4
+Total Pos Error: 1.07592      14.6258      3.85147
+Total Vel Error: 2.1304      33.9845      3.68852
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    21     8     1
+Total Pos Error: 6.7902      142.6697      3.986319
+Total Vel Error: 13.77672      169.1243      1.923325
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    23    37    13
+Total Pos Error: 6.2437      7.5784      1.5333
+Total Vel Error: 6.8731      9.8558     0.45363
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     1    31    23    39    27
+Total Pos Error: 6.2437      7.5784      1.5333
+Total Vel Error: 6.8731      9.8558     0.45363
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    33    18
+Total Pos Error: 1.07592      14.6258      3.85147
+Total Vel Error: 2.1304      33.9845      3.68852
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    37    34
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    38    51
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    40    54
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    42    56
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    43    33
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    44    41
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    46    24
+Total Pos Error: 1.017023      55.02196      115.7396
+Total Vel Error: 2.0573      54.2953      59.5044
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    47    25
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    48    43
+Total Pos Error: 1.07541      11.6302      5.70525
+Total Vel Error: 2.13009      31.5543      5.48156
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    51     7
+Total Pos Error: 1.08036      10.9519      5.70575
+Total Vel Error: 2.1347      30.9694      5.48624
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    52    23
+Total Pos Error: 1.26149      12.2034      6.18025
+Total Vel Error: 2.44291      35.6057      6.64003
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    53    14
+Total Pos Error: 1.36545      12.6548      6.18995
+Total Vel Error: 2.43445      35.1144      6.63956
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    54     1
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    55    31
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    57    23
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     4    58    56
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5     2    14
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5     4    15
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5     5    36
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    26    46
+Total Pos Error: 1.26613      11.8282      6.18296
+Total Vel Error: 2.41026      34.9081      6.64842
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    27    21
+Total Pos Error: 1.86884      15.8948      7.85935
+Total Vel Error: 3.3743      49.0024      10.1314
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    28     0
+Total Pos Error: 1.85178      16.4666      7.84093
+Total Vel Error: 3.42078      49.7966      10.1277
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    29    49
+Total Pos Error: 1.87498      17.4888      7.84055
+Total Vel Error: 3.44119       48.263      10.1296
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    30    30
+Total Pos Error: 1.90776      12.3474       7.8926
+Total Vel Error: 3.33948      47.8002      10.1592
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    31    16
+Total Pos Error: 2.00419      12.8177      7.89256
+Total Vel Error: 4.86713      46.8896      10.1602
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    32    59
+Total Pos Error: 1.85178      16.4666      7.84093
+Total Vel Error: 3.42078      49.7966      10.1277
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    33    54
+Total Pos Error: 2.00329      12.6863      7.88941
+Total Vel Error: 4.85916      47.2211      10.1644
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    34    42
+Total Pos Error: 2.07867      10.2864      7.97644
+Total Vel Error: 4.95889      43.1109      10.3113
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    35    29
+Total Pos Error: 2.17557      10.3887      8.13977
+Total Vel Error: 4.89686      46.3766      10.5296
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1     5    36    50
+Total Pos Error: 12.6051      4.64628      1.57887
+Total Vel Error: 13.822      6.47194     0.472133
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    16    24    27
+Total Pos Error: 5.479e-05  0.00010978  1.5816e-09
+Total Vel Error: 0.002087   0.0041856  1.3791e-07
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    17    18    45
+Total Pos Error: 13.2168       2.2947    0.0500244
+Total Vel Error: 10.1869       4.0024    0.0353182
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    17    20    30
+Total Pos Error: 0.42308      2.2962    0.048354
+Total Vel Error: 1.0126      4.0057    0.034042
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    17    23    23
+Total Pos Error: 0.86512       4.505     0.14804
+Total Vel Error: 2.4771      9.7833    0.077851
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    19    14    14
+Total Pos Error: 1.4779      7.5731     0.48717
+Total Vel Error: 4.64793      21.1501     0.238408
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    19    15    46
+Total Pos Error: 4.76691      31.3751      1.95847
+Total Vel Error: 12.9817      71.9746      1.15853
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    19    17    16
+Total Pos Error: 46.1827      27.1873      6.47982
+Total Vel Error: 77.104      38.3521      2.57385
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    19    18    38
+Total Pos Error: 5.8127       9.748      3.4678
+Total Vel Error: 8.16721      15.1118      1.23589
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     1    19    19    52
+Total Pos Error: 13.7564      13.2936      4.81658
+Total Vel Error: 17.8659      22.4951      1.90192
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2     2     0     6    22
+Total Pos Error: 161.909             0     0.5192613
+Total Vel Error: 99.8072            0     0.378791
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
+
+
+Log at Time: 2015     2    19    17    57    46
+Total Pos Error: 4.8834      6.6797       5.421
+Total Vel Error: 5.78493      11.6615      2.38575
+Kp and Kd (XYZ): 5.5           5.5           200           3.8           3.8            50
+Kp and Kd (Ang): 0.1         0.1           0         0.1         0.1           0
